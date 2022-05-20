@@ -1,0 +1,4 @@
+-cp codigo
+-D analyzer-optimize
+-main Main
+--interp
